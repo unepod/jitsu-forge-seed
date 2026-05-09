@@ -1,4 +1,273 @@
 {
   "version": 1,
-  "urls": {}
+  "urls": {
+    "americana": [
+      "https://www.youtube.com/shorts/RL31dwQd8xI"
+    ],
+    "ankle_lock": [
+      "https://www.youtube.com/shorts/1UShYzZtG_8"
+    ],
+    "ankle_pick": [
+      "https://www.youtube.com/watch?v=rp3FEPqGipo"
+    ],
+    "armbar": [
+      "https://www.youtube.com/watch?v=hBb7Mb7dKZI",
+      "https://www.youtube.com/watch?v=AMVV8XAoGfU"
+    ],
+    "armbar_escape_hitchhiker": [
+      "https://www.youtube.com/watch?v=CDpv10qYFLo"
+    ],
+    "armbar_mount": [
+      "https://www.youtube.com/shorts/6p3870dJcZw",
+      "https://www.youtube.com/watch?v=iUap4TaYVQc"
+    ],
+    "back_bottom": [
+      "https://www.youtube.com/watch?v=N6lKNqUOZoY"
+    ],
+    "back_escape": [
+      "https://www.youtube.com/watch?v=N6lKNqUOZoY"
+    ],
+    "back_take_dog_fight": [
+      "https://youtube.com/shorts/oGl3IQTdBis?si=c5e3y41I12xoy0gZ"
+    ],
+    "back_top": [
+      "https://www.youtube.com/watch?v=D6OSEu6HMjQ"
+    ],
+    "balloon_sweep": [
+      "https://www.youtube.com/shorts/YcXxIn_EvSQ"
+    ],
+    "being_pulled": [
+      "https://youtu.be/irET6Tf-cwg?si=wb4JAb9e1yNGsCsi&t=40"
+    ],
+    "berimbolo": [
+      "https://youtu.be/fWOYcZcgfuY?si=MRhGQqwjUhLDB4v4&t=329"
+    ],
+    "body_lock_pass": [
+      "https://youtu.be/we3wrU-Ctbw?si=5dguxGaB7JfjF3_P&t=118"
+    ],
+    "bow_arrow": [
+      "https://www.youtube.com/shorts/3K2_0mwHq-Q",
+      "https://www.youtube.com/watch?v=xqNhZVNhxnE"
+    ],
+    "butterfly_guard_bottom": [
+      "https://youtu.be/0WIUYjHky_Q?si=IOFgMa7Ang53gshU"
+    ],
+    "butterfly_guard_top": [
+      "https://youtu.be/bsZmSPbltnU?si=kOhjmzyfoYh7Oiof"
+    ],
+    "butterfly_sweep": [
+      "https://youtu.be/-wftJg6jm3E?si=2NiiW8BAers2ii6Q&t=22"
+    ],
+    "can_opener": [
+      "https://www.youtube.com/shorts/qWPyuIZ8fTw"
+    ],
+    "chair_sit_back_take": [
+      "https://www.youtube.com/shorts/ikkZvtDeRWg"
+    ],
+    "closed_guard_bottom": [
+      "https://www.youtube.com/watch?v=C8GHgHPTy0k"
+    ],
+    "collar_choke_from_back": [
+      "https://www.youtube.com/watch?v=dAnqZuCKhbI"
+    ],
+    "collar_drag": [
+      "https://www.youtube.com/watch?v=jhvUH1fXZQk"
+    ],
+    "cross_choke": [
+      "https://www.youtube.com/shorts/E9EGm8s2pVA"
+    ],
+    "cross_choke_guard": [
+      "https://www.youtube.com/shorts/zJ1HZibeE3Q"
+    ],
+    "crucifix_bottom": [
+      "https://youtu.be/l7uxCYq7cEg?si=d85HFypcvgTt4N6h&t=1889"
+    ],
+    "crucifix_top": [
+      "https://www.youtube.com/watch?v=7TcoNNl4Z6Q"
+    ],
+    "darce": [
+      "https://www.youtube.com/watch?v=6d6Wkgh9imU"
+    ],
+    "de_la_riva_bottom": [
+      "https://www.youtube.com/watch?v=xa0c5HHTuhM"
+    ],
+    "de_la_riva_top": [
+      "https://www.youtube.com/watch?v=cYS16RK3L8U"
+    ],
+    "deep_half_bottom": [
+      "https://www.youtube.com/watch?v=i_2C3CUtQRI"
+    ],
+    "deep_half_entry": [
+      "https://www.youtube.com/watch?v=SShUdtEdPuA"
+    ],
+    "deep_half_top": [
+      "https://www.youtube.com/watch?v=eUgSfy_UmIw"
+    ],
+    "dlr_back_take": [
+      "https://www.youtube.com/watch?v=akfGLJ532x8"
+    ],
+    "dog_fight": [
+      "https://www.youtube.com/watch?v=JdQxpnSg-MQ"
+    ],
+    "double_leg": [
+      "https://www.youtube.com/watch?v=4DHzLvLd-0Y",
+      "https://www.youtube.com/watch?v=e9Z6AKhMyKk"
+    ],
+    "double_under": [
+      "https://www.youtube.com/shorts/foSp4rnbfuM"
+    ],
+    "elevator_sweep": [
+      "https://www.youtube.com/shorts/-OKq0QEuPQc"
+    ],
+    "ezekiel": [
+      "https://www.youtube.com/watch?v=u11fXCVxI5A"
+    ],
+    "flower_sweep": [
+      "https://www.youtube.com/shorts/PxewLZOrBIs"
+    ],
+    "front_body_lock": [
+      "https://youtu.be/3lKdVSdcSgU?si=uAZGmJCN0zWq_uXp&t=27"
+    ],
+    "gift_wrap": [
+      "https://www.youtube.com/watch?v=j3yqD4K9kKw"
+    ],
+    "guillotine": [
+      "https://www.youtube.com/watch?v=zmoyANCY4To"
+    ],
+    "guillotine_defense": [
+      "https://www.youtube.com/watch?v=kkYesCgMW7k"
+    ],
+    "guillotine_defense_standing": [
+      "https://www.youtube.com/watch?v=kkYesCgMW7k"
+    ],
+    "half_guard_bottom": [
+      "https://www.youtube.com/watch?v=V7ahnkgF6VM"
+    ],
+    "hip_bump_sweep": [
+      "https://www.youtube.com/shorts/s6YReFuXwo4"
+    ],
+    "kimura": [
+      "https://www.youtube.com/shorts/BPqy9gG4DYs"
+    ],
+    "kimura_side_control": [
+      "https://www.youtube.com/shorts/5K_UPX11_sE",
+      "https://www.youtube.com/shorts/5K_UPX11_sE"
+    ],
+    "knee_cut": [
+      "https://www.youtube.com/shorts/XlvBMK3EOVw"
+    ],
+    "knee_on_belly_top": [
+      "https://www.youtube.com/watch?v=8Jm4z4xGIjU"
+    ],
+    "knee_shield_sweep": [
+      "https://www.youtube.com/watch?v=Aw-jET8Jjv8"
+    ],
+    "lapel_choke": [
+      "https://www.youtube.com/watch?v=q4rnCQYnG_g"
+    ],
+    "long_step": [
+      "https://www.youtube.com/shorts/RlBQs6H7uM"
+    ],
+    "mount_escape_bridge": [
+      "https://youtu.be/ZvBeV6n7OJY?si=McIa1SAD_QHGDonG"
+    ],
+    "mount_escape_elbow": [
+      "https://www.youtube.com/watch?v=Ks2yYDhARh8"
+    ],
+    "mount_to_back": [
+      "https://www.youtube.com/watch?v=KnEQrOZTaOQ",
+      "https://www.youtube.com/watch?v=CvhI6U-IN_8"
+    ],
+    "mount_top": [
+      "https://www.youtube.com/watch?v=e2P4JHAhkyE"
+    ],
+    "o_goshi": [
+      "https://www.youtube.com/watch?v=VLYKx-Fwhxg",
+      "https://www.youtube.com/watch?v=jjhsExjjPpA",
+      "https://www.youtube.com/watch?v=sBQXNxRsVjw"
+    ],
+    "old_school_sweep": [
+      "https://www.youtube.com/watch?v=pArmfqDKQdw"
+    ],
+    "omoplata": [
+      "https://www.youtube.com/watch?v=t6K1eW9PugI"
+    ],
+    "open_guard_bottom": [
+      "https://www.youtube.com/watch?v=BWitv9AKoNU"
+    ],
+    "osoto_gari": [
+      "https://www.youtube.com/watch?v=KeIPk8O58zs",
+      "https://www.youtube.com/watch?v=YTbPMXvoUHM"
+    ],
+    "over_under": [
+      "https://www.youtube.com/shorts/mOFF9cIVcRw"
+    ],
+    "paper_cutter": [
+      "https://www.youtube.com/shorts/tG_jkRYx4mo"
+    ],
+    "pendulum_sweep": [
+      "https://www.youtube.com/shorts/JpCLn4kqShc"
+    ],
+    "pull_guard": [
+      "https://www.youtube.com/watch?v=oWuEFFo-tWM"
+    ],
+    "rear_body_lock": [
+      "https://youtu.be/mE_kcwLTRys?si=T6rpyBVAma-jqtir&t=22"
+    ],
+    "rnc": [
+      "https://www.youtube.com/watch?v=0Q4pp5eF9D0",
+      "https://www.youtube.com/watch?v=qy0AqStN4tg"
+    ],
+    "scissor_sweep": [
+      "https://www.youtube.com/shorts/LV7wbscZe8s"
+    ],
+    "seatbelt_back_take": [
+      "https://www.youtube.com/watch?v=P1DJ-iZ4WkM"
+    ],
+    "seesaw_sweep": [
+      "https://www.youtube.com/watch?v=bDVO8bfTqZU"
+    ],
+    "seoi_nage": [
+      "https://www.youtube.com/watch?v=VpU2ZT_u6og"
+    ],
+    "side_control_escape": [
+      "https://www.youtube.com/watch?v=cuXq-k__9lQ"
+    ],
+    "side_control_top": [
+      "https://www.youtube.com/watch?v=GE_5UdI4NI8"
+    ],
+    "side_to_mount": [
+      "https://www.youtube.com/watch?v=4GwlWU0Avlc"
+    ],
+    "single_leg": [
+      "https://www.youtube.com/watch?v=AafSlmOVjRE"
+    ],
+    "single_stack_pass": [
+      "https://www.youtube.com/shorts/zhrq3EZHPr0"
+    ],
+    "spider_guard_bottom": [
+      "https://www.youtube.com/watch?v=oj19jYIjLHE"
+    ],
+    "standing_guard_break": [
+      "https://www.youtube.com/watch?v=OYtXEqRmtCU"
+    ],
+    "toreando": [
+      "https://www.youtube.com/shorts/-YiEvB8NPqQ"
+    ],
+    "triangle_arm": [
+      "https://www.youtube.com/watch?v=4lC-9_4G7G8"
+    ],
+    "triangle_leg": [
+      "https://www.youtube.com/shorts/RVUL6KNBNG0"
+    ],
+    "tripod_sweep": [
+      "https://www.youtube.com/shorts/a9Fmh8kN10I"
+    ],
+    "turtle_top": [
+      "https://www.youtube.com/watch?v=bPhQ-h3ibyA"
+    ],
+    "x_guard_bottom": [
+      "https://www.youtube.com/watch?v=P0TbUqXtHvc"
+    ]
+  }
 }
